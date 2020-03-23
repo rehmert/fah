@@ -1,0 +1,7 @@
+<config>
+  <!-- <user value="PUT USER NAME HERE"/> -->
+  <!-- <passkey value="PUT PASSKEY HERE"/> -->
+  <team value="240445"/>
+  <power value="light"/>
+  <gpu value="false"/>
+</config>
