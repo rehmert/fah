@@ -1,7 +1,7 @@
 <config>
-  <!-- <user value="PUT USER NAME HERE"/> -->
-  <!-- <passkey value="PUT PASSKEY HERE"/> -->
-  <team value="240445"/>
-  <power value="light"/>
-  <gpu value="false"/>
+  <user v='John Rehmert'/>
+  <team v='240445'/>
+  <power v='light'/>
+  <gpu v='false'/>
+  <slot id='0' type='CPU'/>
 </config>
