@@ -2,12 +2,4 @@
   <gpu v='false'/>
   <user v='John Rehmert'/>
   <team v='240445'/>
-  <slot id='0' type='CPU'/>
-  <slot id='1' type='CPU'/>
-  <slot id='2' type='CPU'/>
-  <slot id='3' type='CPU'/>
-  <slot id='4' type='CPU'/>
-  <slot id='5' type='CPU'/>
-  <slot id='6' type='CPU'/>
-  <slot id='7' type='CPU'/>
 </config>
