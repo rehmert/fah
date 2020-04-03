@@ -1,6 +1,11 @@
 <config>
   <!-- Folding Slot Configuration -->
   <gpu v='false'/>
+  
+  <client-type v='bigadv'/>
+  <power v='full'/>
+  <next-unit-percentage v='90'/>
+  <max-packet-size v='big'/>
 
   <!-- User Information -->
   <team v='240445'/>
